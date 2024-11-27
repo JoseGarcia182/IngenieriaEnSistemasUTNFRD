@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "e439c1ddb2ce6ecb",
+    "type": "split",
+    "children": [
+      {
+        "id": "54ef2d5a8d7de80e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6211d57d0c9db393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Análisis Matemático I/Función.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Función"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61bdc88ad22b1ff9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d738b676fbb5964",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c956043685ad547d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "86817764a7a1a462",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d91a56ee9f564c7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290.5026054382324
+  },
+  "right": {
+    "id": "9e5b53ec3e0f435e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b40f52308184b682",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "479526397ef11f23",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Análisis Matemático I/Función.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Función"
+            }
+          },
+          {
+            "id": "20b89db52aef6e4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Analisis matematico I/Continuidad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Continuidad"
+            }
+          },
+          {
+            "id": "74dd03b7842580c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a20f5fe61dcdcb60",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Análisis Matemático I/Función.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Función"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6211d57d0c9db393",
+  "lastOpenFiles": [
+    "Relación.md",
+    "Sistemas y Procesos de Negocios/Entidad.md",
+    "Sistemas y Procesos de Negocios/Uptime.md",
+    "Sistemas y Procesos de Negocios/Trazabilidad.md",
+    "Sistemas y Procesos de Negocios/Tipos de sistemas.md",
+    "Sistemas y Procesos de Negocios/Teoría General de Sistemas (TGS).md",
+    "Sistemas y Procesos de Negocios/Sistema de comunicación.md",
+    "Sistemas y Procesos de Negocios/Sistema informático.md",
+    "Sistemas y Procesos de Negocios/Sistema de información.md",
+    "Sistemas y Procesos de Negocios/SaaS.md",
+    "Sistemas y Procesos de Negocios/Regla.md",
+    "Sistemas y Procesos de Negocios/Recursos.md",
+    "Análisis Matemático I/Comportamiento final.md",
+    "Sistemas y Procesos de Negocios/attachments/dte.png",
+    "Sistemas y Procesos de Negocios/Suprasistema.md",
+    "Sistemas y Procesos de Negocios/Subsistema.md",
+    "Sistemas y Procesos de Negocios/Sistemas.md",
+    "Sistemas y Procesos de Negocios/Sistemas y Procesos de Negocios.md",
+    "Sistemas y Procesos de Negocios/Sinergia.md",
+    "Sistemas y Procesos de Negocios/Salidas.md",
+    "Sistemas y Procesos de Negocios/Retroalimentación.md",
+    "Sistemas y Procesos de Negocios/Recursividad.md",
+    "Sistemas y Procesos de Negocios/Rango.md",
+    "Sistemas y Procesos de Negocios/Proveedores.md",
+    "Sistemas y Procesos de Negocios/Propósito.md",
+    "Sistemas y Procesos de Negocios/Propiedades emergentes.md",
+    "Sistemas y Procesos de Negocios/Propiedades de un elemento.md",
+    "Sistemas y Procesos de Negocios/attachments",
+    "Sistemas y Procesos de Negocios",
+    "Análisis Matemático I/attachments/rolle.png",
+    "Análisis Matemático I/attachments/limite.png",
+    "Análisis Matemático I/attachments/indeterminaciones.jpg",
+    "Análisis Matemático I/attachments/lagrange.jpg",
+    "Análisis Matemático I/attachments/diferencial.png",
+    "Análisis Matemático I/attachments/derivada.png",
+    "Análisis Matemático I/attachments/asintotas.png",
+    "Análisis Matemático I/attachments",
+    "Análisis Matemático I",
+    "Analisis matematico I/Limite",
+    "Pasted image 20241126224111.png",
+    "Analisis matematico I"
+  ]
+}
